@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Counter_App</string>
+    <string name="click_me">Click Me</string>
+    <string name="_0">0</string>
+    <string name="reset">Reset</string>
+    <string name="limit">Limit:</string>
+    <string name="enter">Enter</string>
+    <string name="plus">Plus</string>
+    <string name="minus">Minus</string>
+    <string name="count_limit">Count Limit:</string>
+    <string name="limit_plus">limit_plus</string>
+
+</resources>
